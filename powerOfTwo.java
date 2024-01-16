@@ -30,6 +30,7 @@ class Solution {
     public boolean isPowerOfTwo(int n) {
 
         double m = n;
+        
         double count = 0;
         double i = 0;
         if (n == 0) {
